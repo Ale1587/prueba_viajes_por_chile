@@ -17,3 +17,21 @@
 .espacio{
     gap: 39em;
 }
+
+
+/* *** footer*** */
+
+footer p{
+    font-size: 2rem;
+    vertical-align: center;
+    padding-top: 1rem;
+}
+footer i{
+    color:#fff;
+    font-size: 3rem;
+}
+
+footer li{
+   display: inline-block;
+   padding: 1rem .5rem 0 .5rem;
+}
