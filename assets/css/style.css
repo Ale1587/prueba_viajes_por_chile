@@ -1,5 +1,22 @@
 /* navbar */
 
 .logo{
-    width: 2rem;
+    width: 2.5rem;
+}
+
+.position_navbar{
+    z-index: 999;
+}
+
+
+.espacio{
+    gap: 43rem;
+}
+
+
+/* carusel */
+
+#inicio img{
+    background-size: contain;
+    background-position: center;
 }
