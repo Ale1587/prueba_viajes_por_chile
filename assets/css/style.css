@@ -31,9 +31,9 @@
 /* *** footer*** */
 
 footer p{
-    font-size: 2rem;
+    font-size: 3rem;
     vertical-align: center;
-    padding-top: 1rem;
+    padding-top: 1.5rem;
 }
 footer i{
     color:#fff;
@@ -42,7 +42,8 @@ footer i{
 
 footer li{
    display: inline-block;
-   padding: 1rem .5rem 0 .5rem;
+   padding: 3rem .5rem 0 .5rem;
+   vertical-align: center;
 }
 
 footer i:hover{
