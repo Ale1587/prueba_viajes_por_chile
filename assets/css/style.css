@@ -10,13 +10,5 @@
 
 
 .espacio{
-    gap: 43rem;
-}
-
-
-/* carusel */
-
-#inicio img{
-    background-size: contain;
-    background-position: center;
+    gap: 39em;
 }
