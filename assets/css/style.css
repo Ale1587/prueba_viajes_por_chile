@@ -1,3 +1,8 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
 
 .bg-pureBlack{
     background-color: #000;
@@ -9,16 +14,34 @@
     width: 2.5rem;
 }
 
-.position_navbar{
+
+/* .position_navbar{
     z-index: 999;
-}
+} */
 
 .position_navbar{
     justify-content: flex-end;
 }
 
+nav a{
+    font-weight: 300;
+}
+
 
 /* Carrosel */
+
+.imgSize{
+    width: 100vw;
+    height: 50vw;
+    object-fit: cover;
+    background-position: bottom;
+}
+
+/* quienes somos */
+
+#quienes_somos p{
+    font-weight: 100;
+}
 
 
 /* destacados */
@@ -28,6 +51,11 @@
     height: 30vh;
     object-fit: cover;
 }
+
+#destacados p{
+    font-weight: 100;
+}
+
 
 
 /* *** footer*** */
